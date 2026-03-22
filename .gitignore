@@ -1,3 +1,10 @@
 data/
 .vscode/
 .env/
+
+# local environment
+env/
+venv/
+.venv/
+# macOS metadata
+.DS_Store
