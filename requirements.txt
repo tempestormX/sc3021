@@ -5,4 +5,4 @@ numpy
 pycountry
 geopandas
 scikit-learn
-geopy
+pycountry-convert
