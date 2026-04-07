@@ -6,3 +6,5 @@ pycountry
 geopandas
 scikit-learn
 pycountry-convert
+statsmodels
+torch
